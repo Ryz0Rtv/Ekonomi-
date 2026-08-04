@@ -10,9 +10,10 @@ Rt = 2 + 3 + 5 = **10 Ω**
 
 **b. Arus total**
 
-Rumus: **I = V/Rt**
+Rumus:
+$$I = \frac{V}{Rt}$$
 
-I = 20/10 = **2 A**
+$$I = \frac{20}{10} = 2\ \text{A}$$
 
 **c. Tegangan tiap resistor**
 
@@ -30,9 +31,10 @@ Pada rangkaian seri, arus sama di semua hambatan (I₁ = I₂ = I₃ = I), sehin
 
 **a. Hambatan total**
 
-Rumus: **1/Rt = 1/R₁ + 1/R₂ + 1/R₃**
+Rumus:
+$$\frac{1}{Rt} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$$
 
-1/Rt = 1/4 + 1/6 + 1/12 = 3/12 + 2/12 + 1/12 = 6/12 = 1/2
+$$\frac{1}{Rt} = \frac{1}{4} + \frac{1}{6} + \frac{1}{12} = \frac{3}{12} + \frac{2}{12} + \frac{1}{12} = \frac{6}{12} = \frac{1}{2}$$
 
 Rt = **2 Ω**
 
@@ -46,9 +48,11 @@ V = 3 × 2 = **6 V**
 
 **c. Arus tiap cabang**
 
-- I₁ = V/R₁ = 6/4 = **1,5 A**
-- I₂ = V/R₂ = 6/6 = **1 A**
-- I₃ = V/R₃ = 6/12 = **0,5 A**
+$$I_1 = \frac{V}{R_1} = \frac{6}{4} = 1{,}5\ \text{A}$$
+
+$$I_2 = \frac{V}{R_2} = \frac{6}{6} = 1\ \text{A}$$
+
+$$I_3 = \frac{V}{R_3} = \frac{6}{12} = 0{,}5\ \text{A}$$
 
 *Cek: I₁ + I₂ + I₃ = 1,5 + 1 + 0,5 = 3 A ✓ (sesuai arus total)*
 
@@ -60,9 +64,10 @@ Susunan rangkaian: 3Ω (seri) → [6Ω paralel dengan 3Ω] → 2Ω (seri)
 
 **Langkah 1 — Sederhanakan bagian paralel (6Ω // 3Ω)**
 
-Rumus: **1/Rp = 1/R₁ + 1/R₂**
+Rumus:
+$$\frac{1}{Rp} = \frac{1}{R_1} + \frac{1}{R_2}$$
 
-1/Rp = 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2
+$$\frac{1}{Rp} = \frac{1}{6} + \frac{1}{3} = \frac{1}{6} + \frac{2}{6} = \frac{3}{6} = \frac{1}{2}$$
 
 Rp = **2 Ω**
 
